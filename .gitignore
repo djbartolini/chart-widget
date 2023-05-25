@@ -15,6 +15,7 @@ _deps
 
 # Build
 build
+subprojects
 
 # MacOS
 .DS_Store
