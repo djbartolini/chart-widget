@@ -10,6 +10,7 @@ install_manifest.txt
 CTestTestfile.cmake
 
 # VS Code
+.vscode/
 compile_commands.json
 _deps
 
